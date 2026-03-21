@@ -1,5 +1,20 @@
 # 💫 About Me:
-🔭 I'm currently working on → AI-powered dev tools & my portfolio (it's cinematic, trust)<br><br>🤝 I'm looking to collaborate on → full-stack or AI/ML projects that actually ship<br><br>🌱 I'm currently learning → the gap between "it works on my machine" and production<br><br>🧠 I'm looking for help with → landing a SWE/AI role in the US post-grad (May 2026 👀)<br><br>⚡ Ask me about → RAG systems, React, and why I've rebuilt my resume 47 times<br><br>🎮 Fun fact → I balance building enterprise software and dying in Roblox. The grind never stops.
+🔭 I'm currently working on → AI-powered tools that make job hunting less soul-crushing
+   (yes, including my own job hunt)
+
+🤝 I'm looking to collaborate on → full-stack & AI/ML projects with actual impact —
+   not another todo app
+
+🌱 I'm currently learning → the difference between "works in dev" and "survives production"
+
+🧠 I'm looking for help with → a US work visa (skills? plentiful. paperwork? terrifying)
+
+⚡ Ask me about → building RAG systems, wiring up React frontends, or why I've
+   rewritten my resume more times than I've pushed to main
+
+🎮 Fun fact → I've been scripting in Roblox since middle school — turns out
+   "it's just a game engine" was a lie. That's where the Lua, game logic,
+   and debugging at 2am started. Some things never change.
 
 
 ## 🌐 Socials:
