@@ -7,7 +7,7 @@
 
 🌱 I'm currently learning → the difference between "works in dev" and "survives production"
 
-🧠 I'm looking for help with → a US work visa (skills? plentiful. paperwork? terrifying)
+🧠 I'm looking for help with → landing a SWE/AI role in the US post-grad (May 2026 👀)
 
 ⚡ Ask me about → building RAG systems, wiring up React frontends, or why I've
    rewritten my resume more times than I've pushed to main
