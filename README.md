@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Avneet%20Singh%20%7C%20Build.%20Ship.%20Automate.&fontColor=00D9FF&fontSize=30&color=0:0D1117,100:1F2A44&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Avneet%20Singh%20%7C%20Dream.%20Build.%20Ship.&fontColor=00D9FF&fontSize=30&color=0:0D1117,100:1F2A44&animation=fadeIn" />
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI%2FML+%2B+Backend+Engineer;Red-teaming+LLMs+with+Redline;RAG%2C+real-time+AI%2C+AWS+serverless;Started+with+Roblox+Lua.+Never+stopped." />
 </h1>
 
