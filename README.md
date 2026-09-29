@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
-  <img alt="Avneet Singh. Dream. Build. Ship." src="./assets/banner-light.svg" width="100%" />
+  <img alt="Avneet Singh. Envision. Craft. Elevate." src="./assets/banner-light.svg" width="100%" />
 </picture>
 
 <p align="center">
