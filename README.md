@@ -44,11 +44,23 @@ Right now I'm focused on **LLM evaluation, retrieval, and serverless backends on
 
 ---
 
-## 📜 Publications & Certifications
+## 📘 Publications
 
-* **📘 Book Chapter:** *"Transforming Healthcare: The Role of Generative AI in Personalized Treatment Recommendations"*, **IGI Global** (June 2024)
+8 publications on generative AI, healthcare, and blockchain. Full list on [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Avneet-Singh-13)
+
+* [*"Transformative Pedagogy: ChatGPT as a Catalyst for Educational Innovation"*](https://www.researchgate.net/publication/391982768_Transformative_Pedagogy_ChatGPT_as_a_Catalyst_for_Educational_Innovation), Book Chapter (May 2025)
+* [*"AI in Healthcare"*](https://www.researchgate.net/publication/390938155_AI_in_Healthcare), Book Chapter (Apr 2025)
+* [*"Empowering Patients in Healthcare Technology: Navigating Privacy, Power, and Ethical Progress"*](https://www.researchgate.net/publication/389754871_Empowering_Patients_in_Healthcare_Technology_Navigating_Privacy_Power_and_Ethical_Progress), Article (Mar 2025)
+* [*"Blockchain and ESG: Unfolding Landscape of Sustainable Reporting"*](https://www.researchgate.net/publication/387752029_Blockchain_and_ESG_Unfolding_Landscape_of_Sustainable_Reporting), Article (Dec 2024)
+* [*"ChatGPT in Marketing: Innovative Pathways, Decision Systems, and Forward Perspectives"*](https://www.researchgate.net/publication/386882798_ChatGPT_in_marketing_innovative_pathways_decision_systems_and_forward_perspectives), Article, **Journal of Decision Systems** (Dec 2024)
+* [*"Blockchain and ESG"*](https://www.researchgate.net/publication/385955955_Blockchain_and_ESG), Book Chapter (Nov 2024)
+* [*"Transforming Healthcare: The Role of Generative AI in Personalized Treatment Recommendations"*](https://www.researchgate.net/publication/382903901_Transforming_Healthcare_The_Role_of_Generative_AI_in_Personalized_Treatment_Recommendations), Book Chapter, **IGI Global** (Jun 2024)
+* [*"ChatGPT: Systematic Review, Applications, and Agenda for Multidisciplinary Research"*](https://www.researchgate.net/publication/370560506_ChatGPT_Systematic_Review_Applications_and_Agenda_for_Multidisciplinary_Research), Article, **Journal of Chinese Economic and Business Studies** (May 2023)
+
+## 🎓 Education & Certifications
+
+* **B.S. Computer Science & Engineering, Cum Laude**, The University of Toledo (May 2026)
 * **Anthropic:** Model Context Protocol (MCP)
-* **🎓 B.S. Computer Science & Engineering, Cum Laude**, The University of Toledo (May 2026)
 
 ---
 
@@ -84,6 +96,7 @@ Right now I'm focused on **LLM evaluation, retrieval, and serverless backends on
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://singh-folio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avneetxsingh/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avneetxsingh)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Avneet-Singh-13)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.avneetsingh@gmail.com)
 
 ---
