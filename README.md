@@ -1,7 +1,12 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Avneet%20Singh%20%7C%20Dream.%20Build.%20Ship.&fontColor=00D9FF&fontSize=30&color=0:0D1117,100:1F2A44&animation=fadeIn" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI%2FML+%2B+Backend+Engineer;Red-teaming+LLMs+with+Redline;RAG%2C+real-time+AI%2C+AWS+serverless;Started+with+Roblox+Lua.+Never+stopped." />
-</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
+  <img alt="Avneet Singh. Dream. Build. Ship." src="./assets/banner-light.svg" width="100%" />
+</picture>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=18&pause=1000&color=C4442A&center=true&vCenter=true&width=700&lines=AI%2FML+%2B+Backend+Engineer;Red-teaming+LLMs+with+Redline;RAG%2C+real-time+AI%2C+AWS+serverless;Started+with+Roblox+Lua.+Never+stopped." />
+</p>
 
 **CS & Engineering grad from The University of Toledo (Cum Laude, May 2026).** I build AI and backend systems end to end: LLM testing frameworks, RAG apps, real-time audio intelligence, and the automation nobody wants to do by hand. I started coding as a kid writing Lua scripts in Roblox, and I've been shipping things ever since.
 
@@ -92,7 +97,7 @@ Right now I'm focused on **LLM evaluation, retrieval, and serverless backends on
 ---
 
 ## 🌐 Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://singh-folio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=C4442A)](https://singh-folio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avneetxsingh/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avneetxsingh)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Avneet-Singh-13)
@@ -103,12 +108,10 @@ Right now I'm focused on **LLM evaluation, retrieval, and serverless backends on
 # 📊 GitHub Stats:
 <div align="left">
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avneetxsingh&theme=tokyonight" width="96%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avneetxsingh&bg_color=FAFAF7&color=161616&line=C4442A&point=161616&area=true&area_color=C4442A&title_color=161616&hide_border=false&border_color=DDD9D0" width="96%" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avneetxsingh&bg_color=0D1117&color=00D9FF&line=7AA2F7&point=FFFFFF&area=true&hide_border=false" width="96%" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=avneetxsingh&show_icons=true&theme=tokyonight" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avneetxsingh&theme=tokyonight&layout=compact" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avneetxsingh&show_icons=true&bg_color=FAFAF7&title_color=C4442A&text_color=161616&icon_color=C4442A&border_color=DDD9D0" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avneetxsingh&layout=compact&bg_color=FAFAF7&title_color=C4442A&text_color=161616&border_color=DDD9D0" width="40%" />
 
 </div>
 
