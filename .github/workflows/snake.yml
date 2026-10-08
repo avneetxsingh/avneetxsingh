@@ -2,7 +2,7 @@ name: GitHub Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -28,6 +28,13 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Stats Card
+        run: node .github/scripts/stats-card.mjs dist/github-stats.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+          EXTRA_REPOS: S4US/Roqer
 
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3

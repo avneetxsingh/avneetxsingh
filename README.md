@@ -110,7 +110,7 @@ Right now I'm focused on **LLM evaluation, retrieval, and serverless backends on
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=avneetxsingh&bg_color=FAFAF7&color=161616&line=C4442A&point=161616&area=true&area_color=C4442A&title_color=161616&hide_border=false&border_color=DDD9D0" width="96%" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=avneetxsingh&show_icons=true&bg_color=FAFAF7&title_color=C4442A&text_color=161616&icon_color=C4442A&border_color=DDD9D0" width="55%" />
+  <img src="https://raw.githubusercontent.com/avneetxsingh/avneetxsingh/output/github-stats.svg" width="55%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avneetxsingh&layout=compact&bg_color=FAFAF7&title_color=C4442A&text_color=161616&border_color=DDD9D0" width="40%" />
 
 </div>
