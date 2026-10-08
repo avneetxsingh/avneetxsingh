@@ -5,16 +5,19 @@
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=18&pause=1000&color=C4442A&center=true&vCenter=true&width=700&lines=AI%2FML+%2B+Backend+Engineer;Red-teaming+LLMs+with+Redline;RAG%2C+real-time+AI%2C+AWS+serverless;Started+with+Roblox+Lua.+Never+stopped." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=18&pause=1000&color=C4442A&center=true&vCenter=true&width=700&lines=AI%2FML+%2B+Backend+Engineer;Red-teaming+LLMs+with+Redline;Building+Roqer%3A+an+AI+agent+for+Roblox+Studio;Started+with+Roblox+Lua.+Never+stopped." />
 </p>
 
-**CS & Engineering grad from The University of Toledo (Cum Laude, May 2026).** I build AI and backend systems end to end: LLM testing frameworks, RAG apps, real-time audio intelligence, and the automation nobody wants to do by hand. I started coding as a kid writing Lua scripts in Roblox, and I've been shipping things ever since.
+I build AI systems that hold up under pressure: **LLM red-teaming, RAG, and serverless backends.**
 
-Right now I'm focused on **LLM evaluation, retrieval, and serverless backends on AWS**, and I'm open to **SWE and AI/ML Engineer roles**.
+Started writing Lua in Roblox as a kid. Still shipping. CS @ University of Toledo.
 
 ---
 
 ## 🚀 Featured Projects
+
+* **[Roqer](https://github.com/S4US/Roqer): Open-Source AI Agent for Roblox Studio** *(contributor)* ![Stars](https://img.shields.io/github/stars/S4US/Roqer?style=flat&color=C4442A&labelColor=161616)
+  An AI agent that builds, scripts, and playtests inside Roblox Studio using your own ChatGPT/Claude subscription or API key. I build the Rojo integration: linking Rojo projects from the app and syncing script edits back to the project's files. The kid who wrote Roblox Lua, now building the AI that writes it.
 
 * **[Redline](https://github.com/avneetxsingh/Redline): Adversarial LLM Testing Framework**
   Adaptive red-teaming engine that picks from 13 attack strategies based on how the model responds, with LLM-as-judge scoring across 5 providers running concurrently via asyncio. Hit a **60% breach rate vs. 25% for static attacks** under identical conditions. FastAPI + WebSocket live dashboard.
@@ -27,31 +30,34 @@ Right now I'm focused on **LLM evaluation, retrieval, and serverless backends on
 
 ---
 
-## 👨‍💻 Work Experience
+## 📦 Recently Shipped
+<!-- RECENT:START -->
+* `Oct 8, 2026` · [Link a Rojo project from the Roqer app, and remember it for published places](https://github.com/S4US/Roqer/pull/70) in [S4US/Roqer](https://github.com/S4US/Roqer)
+* `Oct 8, 2026` · [Save script edits on Rojo-linked places to the project's files](https://github.com/S4US/Roqer/pull/66) in [S4US/Roqer](https://github.com/S4US/Roqer)
+* `Jul 18, 2026` · [Adaptive experiment local models](https://github.com/avneetxsingh/Redline/pull/3) in [avneetxsingh/Redline](https://github.com/avneetxsingh/Redline)
+* `Jul 15, 2026` · [Rescheck v2](https://github.com/avneetxsingh/ResCheck/pull/1) in [avneetxsingh/ResCheck](https://github.com/avneetxsingh/ResCheck)
+* `Jun 27, 2026` · [fix: add railway.toml with explicit start command for dashboard backend](https://github.com/avneetxsingh/Redline/pull/2) in [avneetxsingh/Redline](https://github.com/avneetxsingh/Redline)
+<!-- RECENT:END -->
 
-* **Software Engineer Intern | KPIT Technologies** *(Summers 2024 & 2025, re-hired for a second summer)*
-  Built 3 Python tools that replaced manual ingestion, formatting, and reporting for OEM vehicle safety testing, saving 30+ hours a week across a 10 to 15 engineer validation team. Built Python libraries to parse ECU data from real test drives and ran CI/CD across 3 GitHub Actions pipelines handling 10+ PRs a week.
-
-* **IT System Administrator Level 2 | University of Toledo, College of Engineering** *(Oct 2023 – May 2026)*
-  Automated log monitoring, security audits, and endpoint provisioning across 500+ Windows and Linux endpoints with Python and PowerShell. Trained every incoming student technician.
-
-* **AI Engineer Intern | Softage Information Technology** *(May 2023 – Aug 2023)*
-  Built a Python/Django/PyQt5 app that automated the dataset-creation workflow behind the company's core product, used daily by 40 to 50 employees. Produced quality-checked JSONL training data for LLM fine-tuning for 3 enterprise AI clients.
+<sub>Auto-updated every 6 hours from my merged PRs.</sub>
 
 ---
 
-## 🛠️ Technical Skills
-
-* **AI/ML:** LLM APIs, LLM-as-judge evaluation, RAG, Embeddings, FAISS, Prompt Engineering, Model Context Protocol (MCP)
-* **Languages:** Python, TypeScript, JavaScript, SQL, PowerShell, Java, C++
-* **Backend & Full-Stack:** FastAPI, Django, React, Next.js, Node.js, REST APIs, WebSockets, SSE, asyncio
-* **Cloud & DevOps:** AWS (Lambda, API Gateway, DynamoDB, S3, SQS, KMS, CDK), Docker, GitHub Actions, CI/CD, pytest
+## 👨‍💻 Tech Stack
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,fastapi,django,react,nextjs,nodejs,aws,docker,postgres,pytorch,githubactions,linux&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,ts,js,fastapi,django,react,nextjs,nodejs,aws,docker,postgres,pytorch,githubactions,linux&theme=light" />
+  <img alt="Python, TypeScript, JavaScript, FastAPI, Django, React, Next.js, Node.js, AWS, Docker, PostgreSQL, PyTorch, GitHub Actions, Linux" src="https://skillicons.dev/icons?i=py,ts,js,fastapi,django,react,nextjs,nodejs,aws,docker,postgres,pytorch,githubactions,linux&theme=light" />
+</picture>
 
 ---
 
 ## 📘 Publications
 
-7 publications on generative AI, healthcare, and blockchain. Full list on [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Avneet-Singh-13)
+7 publications on generative AI, healthcare, and blockchain, in Taylor & Francis, Routledge, Emerald, and IGI Global. [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Avneet-Singh-13)
+
+<details>
+<summary>See all 7</summary>
 
 * [*"Transformative Pedagogy: ChatGPT as a Catalyst for Educational Innovation"*](https://www.emerald.com/insight/content/doi/10.1108/978-1-83549-852-120251008/full/html), Book Chapter, **Emerald Publishing** (2025)
 * [*"AI in Healthcare"*](https://www.researchgate.net/publication/390938155_AI_in_Healthcare), Book Chapter (2025)
@@ -61,45 +67,13 @@ Right now I'm focused on **LLM evaluation, retrieval, and serverless backends on
 * [*"Transforming Healthcare: The Role of Generative AI in Personalized Treatment Recommendations"*](https://www.researchgate.net/publication/382903901_Transforming_Healthcare_The_Role_of_Generative_AI_in_Personalized_Treatment_Recommendations), Book Chapter, **IGI Global** (2024)
 * [*"ChatGPT: Systematic Review, Applications, and Agenda for Multidisciplinary Research"*](https://www.tandfonline.com/doi/abs/10.1080/14765284.2023.2210482), Journal Article, **Journal of Chinese Economic and Business Studies** (Taylor & Francis) (2023)
 
-## 🎓 Education & Certifications
-
-* **B.S. Computer Science & Engineering, Cum Laude**, The University of Toledo (May 2026)
-* **Anthropic:** Model Context Protocol (MCP)
-
----
-
-## 👨‍💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) <br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) <br/>
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white) <br/>
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+</details>
 
 ---
 
 ## 🌐 Connect
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=C4442A)](https://singh-folio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avneetxsingh/)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avneetxsingh)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Avneet-Singh-13)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.avneetsingh@gmail.com)
 
@@ -111,7 +85,6 @@ Right now I'm focused on **LLM evaluation, retrieval, and serverless backends on
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=avneetxsingh&bg_color=FAFAF7&color=161616&line=C4442A&point=161616&area=true&area_color=C4442A&title_color=161616&hide_border=false&border_color=DDD9D0" width="96%" />
 
   <img src="https://raw.githubusercontent.com/avneetxsingh/avneetxsingh/output/github-stats.svg" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avneetxsingh&layout=compact&bg_color=FAFAF7&title_color=C4442A&text_color=161616&border_color=DDD9D0" width="40%" />
 
 </div>
 
