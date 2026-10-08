@@ -3,7 +3,8 @@
 // (non-fork) repo stars plus the repos listed in EXTRA_REPOS, e.g. "S4US/Roqer".
 // Usage: GITHUB_TOKEN=... GITHUB_USER=... EXTRA_REPOS="owner/name,..." node stats-card.mjs out.svg
 
-import { writeFileSync } from "node:fs";
+import { mkdirSync, writeFileSync } from "node:fs";
+import { dirname } from "node:path";
 
 const token = process.env.GITHUB_TOKEN;
 const user = process.env.GITHUB_USER;
@@ -140,5 +141,6 @@ function render({ stars, commits, prs, issues, contributedTo }) {
 
 const [own, extra, act] = await Promise.all([ownedStars(), extraStars(), activity()]);
 const stats = { stars: own + extra, ...act };
+mkdirSync(dirname(outPath), { recursive: true });
 writeFileSync(outPath, render(stats));
 console.log(`Wrote ${outPath}: owned stars ${own} + extra ${extra}`, act);

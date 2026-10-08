@@ -19,6 +19,14 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      # Runs before snk: snk's container creates dist/ as root, which this step can't write into.
+      - name: Generate Stats Card
+        run: node .github/scripts/stats-card.mjs dist/github-stats.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+          EXTRA_REPOS: S4US/Roqer
+
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
@@ -28,13 +36,6 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate Stats Card
-        run: node .github/scripts/stats-card.mjs dist/github-stats.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USER: ${{ github.repository_owner }}
-          EXTRA_REPOS: S4US/Roqer
 
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
