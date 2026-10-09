@@ -16,7 +16,7 @@ Started writing Lua in Roblox as a kid. Still shipping. CS @ University of Toled
 
 ## 🚀 Featured Projects
 
-* **[Roqer](https://github.com/S4US/Roqer): Open-Source AI Agent for Roblox Studio** *(contributor)* ![Stars](https://img.shields.io/github/stars/S4US/Roqer?style=flat&color=C4442A&labelColor=161616)
+* **[Roqer](https://github.com/S4US/Roqer): Open-Source AI Agent for Roblox Studio** *(collaborator & contributor)* ![Stars](https://img.shields.io/github/stars/S4US/Roqer?style=flat&color=C4442A&labelColor=161616)
   An AI agent that builds, scripts, and playtests inside Roblox Studio using your own ChatGPT/Claude subscription or API key. I build the Rojo integration: linking Rojo projects from the app and syncing script edits back to the project's files. The kid who wrote Roblox Lua, now building the AI that writes it.
 
 * **[Redline](https://github.com/avneetxsingh/Redline): Adversarial LLM Testing Framework**
